@@ -10,7 +10,8 @@
         "spryker-shop/merchant-sales-return-widget": "^0.2.0",
         "spryker/merchant-sales-return": "^0.2.0",
         "spryker/merchant-sales-return-gui": "^0.1.0",
-        "spryker/merchant-sales-return-merchant-user-gui": "^0.1.0"
+        "spryker/merchant-sales-return-merchant-user-gui": "^0.1.0",
+        "spryker/sales-return": "^1.3.0"
     },
     "extra": {
         "branch-alias": {
