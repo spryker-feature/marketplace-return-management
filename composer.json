@@ -18,5 +18,9 @@
         "branch-alias": {
             "dev-master": "202107.x-dev"
         }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-order-management": "Recommended feature dependency.",
+        "spryker-feature/return-management": "Recommended feature dependency."
     }
 }
