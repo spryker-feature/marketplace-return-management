@@ -8,17 +8,17 @@
     "require": {
         "php": ">=7.3",
         "spryker-shop/merchant-sales-return-widget": "^0.2.0",
-        "spryker-shop/sales-return-page": "^1.2.0",
+        "spryker-shop/sales-return-page": "^1.0.0",
         "spryker/merchant-sales-return": "^0.2.0",
         "spryker/merchant-sales-return-gui": "^0.1.0",
-        "spryker/merchant-sales-return-merchant-user-gui": "^0.1.0",
-        "spryker/sales-return": "^1.1.0",
+        "spryker/merchant-sales-return-merchant-user-gui": "^0.2.0",
+        "spryker/sales-return": "^1.0.0",
         "spryker/sales-return-data-import": "^0.2.0",
         "spryker/sales-return-search": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
