@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/merchant-sales-return-widget": "^1.0.0",
         "spryker-shop/sales-return-page": "^1.4.0",
         "spryker/merchant-sales-return": "^1.0.0",
