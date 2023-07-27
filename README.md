@@ -2,6 +2,8 @@
 
 spryker-feature/marketplace-return-management
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/return-management/202307.0/marketplace/marketplace-return-management-feature-overview.html)
+
 ## Installation
 
 ```
