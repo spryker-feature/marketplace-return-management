@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.1",
-        "spryker-shop/merchant-sales-return-widget": "^1.0.0",
+        "spryker-shop/merchant-sales-return-widget": "^1.1.0",
         "spryker-shop/sales-return-page": "^1.8.0",
         "spryker/merchant-sales-return": "^1.0.0",
         "spryker/merchant-sales-return-gui": "^1.2.0",
