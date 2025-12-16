@@ -17,4 +17,4 @@ composer require spryker-feature/marketplace-return-management
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantSalesReturnsRestApi ^1.0.0](https://github.com/spryker/merchant-sales-returns-rest-api) (Legacy Glue)
+- [MerchantSalesReturnsRestApi ^1.1.0](https://github.com/spryker/merchant-sales-returns-rest-api) (Legacy Glue)
