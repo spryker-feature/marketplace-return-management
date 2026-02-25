@@ -8,7 +8,7 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/merchant-sales-return-widget": "^1.1.0",
-        "spryker-shop/sales-return-page": "^1.10.0",
+        "spryker-shop/sales-return-page": "^1.11.0",
         "spryker/merchant-sales-return": "^1.1.0",
         "spryker/merchant-sales-return-gui": "^1.2.0",
         "spryker/merchant-sales-return-merchant-user-gui": "^2.0.0",
@@ -18,7 +18,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202512.x-dev"
+            "dev-master": "202602.x-dev"
         }
     },
     "suggest": {
